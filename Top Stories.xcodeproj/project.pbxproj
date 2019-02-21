@@ -13,6 +13,7 @@
 		3C82C4E3221DC43B00FB7B41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C82C4E2221DC43B00FB7B41 /* Assets.xcassets */; };
 		3C82C4E6221DC43B00FB7B41 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C82C4E4221DC43B00FB7B41 /* LaunchScreen.storyboard */; };
 		3C82C4EE221DC6EA00FB7B41 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C82C4ED221DC6EA00FB7B41 /* SwiftyJSON.swift */; };
+		3C82C4F0221F194700FB7B41 /* ArticlesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C82C4EF221F194700FB7B41 /* ArticlesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3C82C4E5221DC43B00FB7B41 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C82C4E7221DC43B00FB7B41 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3C82C4ED221DC6EA00FB7B41 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		3C82C4EF221F194700FB7B41 /* ArticlesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticlesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				3C82C4DB221DC43600FB7B41 /* AppDelegate.swift */,
 				3C82C4DD221DC43600FB7B41 /* SourcesViewController.swift */,
+				3C82C4EF221F194700FB7B41 /* ArticlesViewController.swift */,
 				3C82C4DF221DC43600FB7B41 /* Main.storyboard */,
 				3C82C4E2221DC43B00FB7B41 /* Assets.xcassets */,
 				3C82C4E4221DC43B00FB7B41 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3C82C4EE221DC6EA00FB7B41 /* SwiftyJSON.swift in Sources */,
+				3C82C4F0221F194700FB7B41 /* ArticlesViewController.swift in Sources */,
 				3C82C4DE221DC43600FB7B41 /* SourcesViewController.swift in Sources */,
 				3C82C4DC221DC43600FB7B41 /* AppDelegate.swift in Sources */,
 			);
